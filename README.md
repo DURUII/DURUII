@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @DURUII
-- 👀 I’m interested in Deep Learning, Android Apps, Java, Python...
-- 🌱 I’m currently learning NLP, Digital Image Processing and Computer Vision
-- 💞️ I’m looking to collaborate on something cool
+- 🌱 I’m still a green hand, to be honest
 - 📫 How to reach me: wust.durui@qq.com
 
 <!---
