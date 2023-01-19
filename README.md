@@ -4,5 +4,3 @@ You can click the Preview link to take a look at your changes.
 --->
 
  <a href="https://space.bilibili.com/23442583"><img src="https://img.shields.io/static/v1?label=bilibili&message=anrushan&color=ff69b4"></a>
-
-📫 How to reach me: wust.durui@qq.com
