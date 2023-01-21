@@ -3,7 +3,7 @@ DURUII/DURUII is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-[![](https://img.shields.io/badge/Bilibili-informational?style=social&logo=bilibili&color=6aa6f8)](baidu.com)
+[![](https://img.shields.io/badge/Bilibili-informational?style=social&logo=bilibili&color=6aa6f8)](https://www.baidu.com)
 ![](https://img.shields.io/badge/知乎-informational?style=social&logo=zhihu&color=6aa6f8)
 ![](https://img.shields.io/badge/Codeforces-informational?style=social&logo=codeforces&color=6aa6f8)
 ![](https://img.shields.io/badge/Leetcode-informational?style=social&logo=leetcode&color=6aa6f8)
