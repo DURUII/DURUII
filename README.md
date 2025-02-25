@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 #### <div align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30"> I am Ray, one who explores the intersection of cutting-edge tech and dreamlike creativity.</div>
 
-###### <div align="center">🎤 Debater | 📸 Amateur Photographer | 🎥 Bilibili Tutorial Creator | 🧑‍🏫 TA at New Oriental | 🫂 Listener at Tell</div>
+###### <div align="center">I was a(n) 🎤 Debater | 📸 Amateur Photographer | 🎥 Bilibili Tutorial Creator | 🧑‍🏫 TA at New Oriental | 🫂 Listener at Tell</div>
 
 <div align="center">
     <a href="https://space.bilibili.com/23442583">
