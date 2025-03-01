@@ -64,8 +64,8 @@ header:
 中国高校计算机大赛第九届网络技术挑战赛（<u>车联网方向</u>），**国家三等奖（排序第三）**
 ~ 2024.09
 
-<!-- 武汉科技大学“互联网+”大学生创新创业大赛（<u>AIGC方向</u>），**优秀奖**
-~ 2023.09 -->
+武汉科技大学“互联网+”大学生创新创业大赛（<u>AIGC方向</u>），**优秀奖**
+~ 2023.09
 
 第十一届“大唐杯”全国大学生新一代信息通信技术大赛，**团体省二等奖（排序第二）**
 ~ 2024.05
@@ -98,8 +98,8 @@ header:
 ~ [<span class="iconify" data-icon="logos:github-icon"></span> Homework-Android-MLKit](https://github.com/DURUII/Homework-Android-MLKit)
 
 - 开发 AI 健身应用，利用计算机视觉与 JetPack 组件，实现实时动作识别、计数与数据分析。
-- **技术栈**：JetPack、Room Database、CameraX、Google ML Kit（Pose Detection）、Mediapipe
-- **核心技术与亮点**：
+- 技术栈：JetPack、Room Database、CameraX、Google ML Kit（Pose Detection）、Mediapipe
+- 核心技术与亮点：
   - 实时动作识别：CameraX 采集图像流，ML Kit 关键点检测 + KNN 实现姿态分类与计数
   - MVVM 架构：JetPack 组件高效集成，提升维护性与交互体验
   - 数据持久化：Room Database 记录运动数据，支持高效查询与统计
@@ -108,7 +108,7 @@ header:
 <span class= "iconify" data-icon="logos:pytorch-icon"></span> 服创大赛：高性能声纹识别平台，项目负责人（2023.02）
 ~ [<span class="iconify" data-icon="simple-icons:baidu"></span> 文档&代码](https://pan.baidu.com/s/1MJ7-E8cWqtXI47gY1kxcHA?pwd=duru), [<span class="iconify" data-icon="ri:bilibili-fill"></span> Demo](https://www.bilibili.com/video/BV1y5411v7Xi/)
 - 本项目旨在开发一个高性能的声纹识别平台，利用音频信号处理技术和声纹识别技术，实现对通话用户身份的自动确认，以节省成本、提高用户满意度。
-- **技术栈**：
+- 技术栈：
   - 深度学习框架：PyTorch
   - 音频处理：torchaudio、numpy、scipy、SoX、Kaldi
   - 前端框架：Streamlit
@@ -128,10 +128,10 @@ header:
 <span class="iconify" data-icon="vscode-icons:file-type-django"></span> 课程设计：软件工程（2023.04）
 ~ [<span class="iconify" data-icon="logos:github-icon"></span> Homework-Django-ACAPP](https://github.com/DURUII/Homework-Django-ACAPP)
 - 本项目旨在实现一个在线 2D 对战游戏，提供人机模式和联机模式，支持玩家移动、释放技能、聊天等操作，通过击败其他玩家获得胜利。
-- **技术栈**：
+- 技术栈：
   - 后端：Django 3.2.8、SQLite 3.31.1、Redis 4.5.1、Django-Redis 5.2.0、Channels-Redis 3.4.1
   - 其他：JQuery、Ajax；Thrift、OAuth 2.0、Linux Shell、tmux
-- **核心技术与亮点**：
+- 核心技术与亮点：
   - 实时对战：WebSockets 实现双向通信，支持多人在线匹配
   - 匹配机制：基于 Thrift 设计匹配算法，提升公平性与效率
   - 游戏设计：逐帧重绘渲染，冷却控制 + 击中判定，增强策略性
@@ -145,7 +145,7 @@ header:
 ~ [<span class="iconify" data-icon="logos:github-icon"></span> Homework-Algorithm-TSPLIB95](https://github.com/DURUII/Homework-Algorithm-TSPLIB95/blob/master/assets-v2/main.pdf)
 - 实现并改进遗传算法，用来近似求解旅行商问题。
 
-<span class="iconify" data-icon="vscode-icons:file-type-python"></span> 顶会论文复现：多臂赌博机&未知工人招募
+<span class="iconify" data-icon="vscode-icons:file-type-python"></span> 顶会论文复现：多臂赌博机&未知工人招募（2023.12）
 ~ [<span class="iconify" data-icon="logos:github-icon"></span> EUWR](https://github.com/DURUII/Replica-EUWR), [<span class="iconify" data-icon="logos:github-icon"></span> AUCB](https://github.com/DURUII/Replica-AUCB) 
 
 <!-- 产品设计：高尺竞赛全国大学生英语竞赛速成课
@@ -180,9 +180,9 @@ header:
   - 而后，我担任 Java 俱乐部负责人，从通知面试到讲题培训，与团队成员一起搭建了俱乐部体系，实现了从无到有的建设过程。
 
 - <u>我对新技术充满好奇，关注技术发展，并具备较强的自主学习能力</u>。
-  - 大三时，我因参加比赛接触到声纹识别领域，并在两个月内深入研究该方向。通过动手实践，我掌握了深度学习 Pytorch 框架，成功运行了三个开源声纹识别项目，并结合代码、论文、视频资料深入理解该领域的最新进展，最终对训练流程进行改进。
-  - 近期，我对前沿 AI 技术尤为感兴趣，频繁使用并研究 DeepSeek、ChatGPT、通义千问等大模型，总结了提示词优化技巧。
-  - 此外，我还通过阅读文档、观看视频等方式学习 RAG、Fine-Tuning、Agentic Pipeline 等技术，并关注有趣的开源代码库和最佳实践，例如 [oh-my-cv](https://github.com/Renovamen/oh-my-cv?tab=readme-ov-file)。
+  - 大三时，我因参加比赛接触到声纹识别领域，并在两个月内深入研究该方向。通过动手实践，我掌握了深度学习 PyTorch 框架，成功运行了三个开源声纹识别项目，并结合代码、论文、视频资料深入理解该领域的最新进展，最终对训练流程进行改进。
+  - 近期，我对前沿 AI 技术尤为感兴趣，频繁使用并研究 DeepSeek、ChatGPT、通义千问等大模型，总结了提示词优化技巧。并积极使用Cursor、Github Copilot辅助编码。
+  - 此外，我还通过阅读文档、观看视频等方式学习 RAG、Fine-Tuning、Agentic Pipeline 等技术，并关注有趣的开源代码库和最佳实践，例如 [oh-my-cv](https://github.com/Renovamen/oh-my-cv?tab=readme-ov-file)，[slidev](https://github.com/slidevjs/slidev)等。
 
 - <u>我不仅具备良好的工程素养和终身学习意识，还具备产品思维和扎实的外语能力</u>。
   - 除了参加算法竞赛，我还深入理解设计模式、抽象、封装、可复用性、职责分离等计算机理念。
