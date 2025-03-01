@@ -27,7 +27,7 @@ header:
 ~ 2020.09 - 2024.06
 - GPA 3.67/4：<u>专业前4%，年级前5%</u>
 <!-- - 主修课程：面向对象程序设计(88), 算法设计与分析(89), JAVA编程技术(96), JAVA EE架构(94), .NET架构(95), 移动平台软件设计(93), 软件工程(90), 软件设计与体系结构(93), 软件测试(96) -->
-- 校内荣誉：“沁湖创客”大学生创新创业典型，优秀学生，连续四年获校级奖学金
+- 校内荣誉：优秀毕业生&论文，优秀学生，“沁湖创客”大学生创新创业典型，连续四年获奖学金
 
 <span class="iconify" data-icon="simple-icons:coursera"></span> **CS61A: Structure and Interpretation of Computer Programs** [[<span class="iconify" data-icon="logos:github-icon"></span> CS61A](https://github.com/DURUII/Course-UCB-CS61A-Spring2021)]
 ~ 2023.06 - 2023.09
@@ -36,7 +36,7 @@ header:
 ~ 计算机科学与技术
 ~ 2024.09 - 2027.06
 - 主修课程：机器学习(89)、语义技术与知识图谱(93)、高级算法设计与分析(91)
-- 校内荣誉：国家奖学金
+- 校内荣誉：获国家奖学金
 
 <span class="iconify" data-icon="simple-icons:coursera"></span> **通用AI模型时代下的机器学习** [[<span class="iconify" data-icon="logos:github-icon"></span> ML2025](https://github.com/DURUII/Course-NTU-ML2025)]
 ~ 2025.02 - 2025.06
@@ -73,8 +73,7 @@ header:
 第十一届“大唐杯”全国大学生新一代信息通信技术大赛，**团体省二等奖（排序第二）**
 ~ 2024.05
 
-“华为杯” 第二十一届中国研究生数学建模竞赛（<u>数据分析方向</u>），**成功参与奖**
-~ 2024.12
+<!-- “华为杯” 第二十一届中国研究生数学建模竞赛（<u>数据分析方向</u>），**成功参与奖** ~ 2024.12 -->
 
 <!-- 美国大学生数学建模竞赛，**成功参与奖**~ 2024.02 -->
 
@@ -146,10 +145,13 @@ header:
 
 <span class="iconify" data-icon="vscode-icons:file-type-python"></span> 课程设计：算法设计与分析（2024.01）
 ~ [<span class="iconify" data-icon="logos:github-icon"></span> Homework-Algorithm-TSPLIB95](https://github.com/DURUII/Homework-Algorithm-TSPLIB95/blob/master/assets-v2/main.pdf)
-- 实现并改进遗传算法，用来近似求解旅行商问题。
+- 实现多种近似算法，改进遗传算法，近似求解旅行商问题。在**18/48**个测试用例中超过SOTA或已求得最优解;与最优回路相比，平均最小相对误差次**0.95%**。以 a280 为例，相对误差为**0.19%**。
 
 <span class="iconify" data-icon="vscode-icons:file-type-python"></span> 顶会论文复现：多臂赌博机&未知工人招募（2023.12）
 ~ [<span class="iconify" data-icon="logos:github-icon"></span> EUWR](https://github.com/DURUII/Replica-EUWR), [<span class="iconify" data-icon="logos:github-icon"></span> AUCB](https://github.com/DURUII/Replica-AUCB) 
+
+<span class="iconify" data-icon="vscode-icons:file-type-python"></span> 毕业论文：群智感知中高效任务分配研究（2024.05）
+~ [<span class="iconify" data-icon="logos:google-drive"></span> 代码&文档](https://drive.google.com/drive/folders/13mH2mIJw2DZmA0WJAF75JiIyQD85S0BS?usp=sharing)
 
 <!-- 产品设计：高尺竞赛全国大学生英语竞赛速成课
 - 我分析了，产品链接：[https://www.bilibili.com/video/BV1CPFZexEyu/](https://www.bilibili.com/video/BV1CPFZexEyu/)。 -->
