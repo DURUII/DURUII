@@ -43,10 +43,13 @@ header:
 
 ## 专业技能
 
-- 语言、框架、工具：<span class="iconify" data-icon="vscode-icons:file-type-python"></span> Python，
-<span class="iconify" data-icon="vscode-icons:file-type-java"></span> Java，
-<span class="iconify" data-icon="vscode-icons:file-type-git"></span> Git，
-<span class="iconify" data-icon="devicon:linux"></span> Linux Command
+- 语言、框架、工具：<span class="iconify" data-icon="vscode-icons:file-type-python"></span> Python, 
+<span class="iconify" data-icon="vscode-icons:file-type-java"></span> Java, 
+<span class="iconify" data-icon="devicon:go"></span> Go
+<span class="iconify" data-icon="vscode-icons:file-type-git"></span> Git, 
+<span class="iconify" data-icon="devicon:linux"></span> Linux Command, 
+<span class="iconify" data-icon="devicon:docker"></span> Docker, 
+<span class="iconify" data-icon="devicon:kubernetes"></span> Kubernetes
 - 工程思维: 具备良好的面向对象编程思想，掌握设计模式，具备良好的动手和文档能力
 - 前端开发: 熟悉 W3C 规范，HTML5、CSS3，掌握 React 框架
 - 后端开发: 精通 Java，熟悉Spring MVC，数据库、Redis缓存及Postman API调试工具
