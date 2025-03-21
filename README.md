@@ -24,8 +24,8 @@ You can click the Preview link to take a look at your changes.
 ###### <div align="center">I was a(n) 🎤 Debater | 📸 Amateur Photographer | 🎥 Bilibili Tutorial Creator | 🧑‍🏫 TA at New Oriental | 🫂 Listener at Tell</div>
 
 <div align="center">
-<img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=DURUII&show_icons=true&theme=shadow_red&count_private=true&line_height=24.999"/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DURUII&layout=compact&&langs_count=8&theme=shadow_red&hide=jupyter%20notebook,tex,css"/>
+<img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=DURUII&show_icons=true&theme=vue&count_private=true&line_height=24.999"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DURUII&layout=compact&&langs_count=8&theme=vue&hide=jupyter%20notebook,tex,css"/>
 </div>
 
 <!--- ![GithubStats](https://github-readme-stats.vercel.app/api?username=DURUII&show_icons=true&theme=vue&count_private=true&hide=contribs,prs) --->
