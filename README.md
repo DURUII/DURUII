@@ -8,11 +8,11 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <div align="center">
-    <a href="mailto:wust.durui@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
     <a href="https://space.bilibili.com/23442583">
         <img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili">
+    </a>
+    <a href="mailto:wust.durui@gmail.com?">
+        <img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
     <a href="https://blog.csdn.net/Raymond_Duu">
         <img src="https://img.shields.io/badge/CSDN-FF4C00?style=for-the-badge&logo=c&logoColor=white" alt="CSDN">
