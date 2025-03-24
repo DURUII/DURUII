@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
     <a href="https://space.bilibili.com/23442583">
         <img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili">
     </a>
-    <a href="mailto:wust.durui@gmail.com?">
+    <a href="mailto:wust.durui@gmail.com?body=Messages may be filtered accidentally. Consider re-sending if no reply within 48h.">
         <img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
     <a href="https://blog.csdn.net/Raymond_Duu">
