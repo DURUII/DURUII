@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
         <img src="https://img.shields.io/badge/CSDN-FF4C00?style=for-the-badge&logo=c&logoColor=white" alt="CSDN">
     </a>
     <a href="https://www.cnblogs.com/anrushan">
-        <img src="https://img.shields.io/badge/Blog-FF8C00?style=for-the-badge&logo=hexo&logoColor=white" alt="Blog">
+        <img src="https://img.shields.io/badge/Blog-2e7acc?style=for-the-badge&logo=hexo&logoColor=white" alt="Blog">
     </a>
 </div>
 
