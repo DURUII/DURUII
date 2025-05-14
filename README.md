@@ -3,9 +3,9 @@ DURUII/DURUII is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-<p align="center">
-    <img width="800" src="https://readme-typing-svg.demolab.com?font=LXGW+WenKai+TC&size=22&pause=1000&center=true&vCenter=true&random=false&width=600&color=333333&lines=Welcome+to+my+GitHub+profile+page!;欢迎来到我的+GitHub+主页！随便瞧瞧！" alt="Hello World" title="Hello World"/>
-</p>
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=LXGW+WenKai+TC&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile+page!;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84+GitHub+%E4%B8%BB%E9%A1%B5%EF%BC%81%E9%9A%8F%E4%BE%BF%E7%9E%A7%E7%9E%A7%EF%BC%81" alt="Typing SVG" /></a>
+</div>
 
 <div align="center">
     <a href="https://space.bilibili.com/23442583">
