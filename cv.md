@@ -2,7 +2,7 @@
 name: 杜睿
 header:
   - text: |
-      <span style="font-size: 1.2em; font-weight: bold;">求职意向：产品经理/算法工程师/服务端开发工程师</span>
+      <span style="font-size: 1.2em; font-weight: bold;">求职意向：服务端开发工程师/AI 产品经理</span>
   - text: <span class="iconify" data-icon="ic:outline-cake"></span> 2002-01-16
     newLine: true
   - text: <span class="iconify" data-icon="tabler:phone"></span> (+86) 181-2021-7202
@@ -38,7 +38,7 @@ header:
 - 主修课程：机器学习(89)、语义技术与知识图谱(93)、高级算法设计与分析(91)
 - 校内荣誉：获国家奖学金
 
-<span class="iconify" data-icon="simple-icons:coursera"></span> **通用AI模型时代下的机器学习** [[<span class="iconify" data-icon="logos:github-icon"></span> ML2025](https://github.com/DURUII/Course-NTU-ML2025)]
+<span class="iconify" data-icon="simple-icons:coursera"></span> **Distributed Systems 分布式系统** [[<span class="iconify" data-icon="logos:github-icon"></span> MIT 6.824](https://github.com/DURUII/Course-MIT-6824-Spring2025)]
 ~ 2025.02 - 2025.06
 
 ## 专业技能
@@ -48,11 +48,10 @@ header:
 <span class="iconify" data-icon="devicon:go"></span> Go
 <span class="iconify" data-icon="vscode-icons:file-type-git"></span> Git, 
 <span class="iconify" data-icon="devicon:linux"></span> Linux Command, 
-<span class="iconify" data-icon="devicon:docker"></span> Docker, 
-<span class="iconify" data-icon="devicon:kubernetes"></span> Kubernetes
+<span class="iconify" data-icon="devicon:docker"></span> Docker
 - 工程思维: 具备良好的面向对象编程思想，掌握设计模式，具备良好的动手和文档能力
-- 前端开发: 熟悉 W3C 规范，HTML5、CSS3，掌握 React 框架
-- 后端开发: 精通 Java，熟悉Spring MVC，数据库、Redis缓存及Postman API调试工具
+- 前端开发: 熟悉 W3C 规范，HTML5、CSS3，掌握 React 框架，有基础审美
+- 后端开发: 熟悉 Java/Golang，熟悉数据库、Redis缓存及Postman API调试工具，有架构思维
 - 前沿技术: 了解大模型 (LLM)、Prompt、RAG、Agent 相关理论及应用
 - 产品思维: 了解用户调研、原型设计、数据分析，A/B测试方法
 
@@ -167,10 +166,13 @@ header:
 2024年全国大学生英语竞赛C类，**国家特等奖**（<u>全校仅7人，含英专生</u>）
 ~ 2024.05
 
+2025年全国大学生英语竞赛A类，**国家特等奖**（<u>研究生，全省第四</u>）
+~ 2024.05
+
 <!-- 2021年全国大学生英语竞赛C类，国家三等奖 ~ 2021.05 -->
 
-“外教社·词达人杯”，全国决赛一等奖（<u>全国排名第24名</u>）
-~ 2022.05 
+<!-- “外教社·词达人杯”，全国决赛一等奖（<u>全国排名第24名</u>）
+~ 2022.05  -->
 
 <!-- 2023年全国大学生英语竞赛C类，国家二等奖 ~ 2023.06 -->
 
