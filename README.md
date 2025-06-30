@@ -23,6 +23,9 @@ You can click the Preview link to take a look at your changes.
     <a href="https://www.cnblogs.com/anrushan">
         <img src="https://img.shields.io/badge/Blog-2e7acc?style=for-the-badge&logo=hexo&logoColor=white" alt="Blog">
     </a>
+    <a href="https://cnb.cool/u/DURUII/repos">
+    <img src="https://img.shields.io/badge/CNB-ff6f61?style=for-the-badge&logo=codeforces&logoColor=white" alt="CNB">
+    </a>
 </div>
 
 #### <div align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30"> I am Ray, one who explores the intersection of cutting-edge tech and dreamlike creativity. [[my_cv](https://github.com/DURUII/DURUII/blob/main/cv.pdf)]</div>
