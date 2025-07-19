@@ -8,6 +8,9 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <div align="center">
+    <a href="https://juejin.cn/user/1391327537798315">
+    <img src="https://img.shields.io/badge/juejin-007FFF?style=for-the-badge&logo=juejin&logoColor=white" alt="稀土掘金">
+    </a>
     <a href="https://space.bilibili.com/23442583">
         <img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili">
     </a>
