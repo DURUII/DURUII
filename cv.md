@@ -55,7 +55,7 @@ header:
 - 前沿技术: 了解大模型 (LLM)、Prompt、RAG、Agent 相关理论及应用
 - 产品思维: 了解用户调研、原型设计、数据分析，A/B测试方法
 
-## 获奖
+## 获奖证书
 
 第十三届蓝桥杯全国软件和信息技术专业人才大赛全国总决赛，**国家二等奖**
 ~ 2022.06
@@ -72,13 +72,33 @@ header:
 第十一届“大唐杯”全国大学生新一代信息通信技术大赛，**团体省二等奖（排序第二）**
 ~ 2024.05
 
+小米工程师训练营，**结营证书**
+~ 2025.05
+
+腾讯未来产品经理创造营，结课证书
+~ 2025.08
+
+Datawhale AI 夏令营（<u>全球 AI 攻防挑战赛·语音交互认证生成 TTS 方向，排名 46/772</u>），结营证书
+~ 2025.08
+
 “华为杯”第七届中国研究生人工智能创新大赛，**团体国家三等奖（排序第一）** 
 ~ 2025.10
+
+DeepLearning.AI · Agentic AI，课程证书
+~ 2025.10
+
+扣子 × Intel，扣子校园大使 & AI Agent 能力认证证书
+~ 2025.10
+
+DeepLearning.AI · Fine-tuning & RL for LLMs: Intro to Post-training，课程证书
+~ 2025.11
+
+Hugging Face · Agents Course，Certificate of Excellence
+~ 2025.11 
 
 <!-- “华为杯” 第二十一届中国研究生数学建模竞赛（<u>数据分析方向</u>），**成功参与奖** ~ 2024.12 -->
 
 <!-- 美国大学生数学建模竞赛，**成功参与奖**~ 2024.02 -->
-
 
 <!-- 湖北省第七届大学生艺术节，**团体二等奖**~ 2021.02 -->
 
@@ -123,6 +143,12 @@ header:
   - MVVM 架构：JetPack 组件高效集成，提升维护性与交互体验
   - 数据持久化：Room Database 记录运动数据，支持高效查询与统计
   - UI 设计：Material Design 3 结合 Canvas、EazeGraph等开源库，实现健身数据可视化
+
+<span class="iconify" data-icon="logos:pytorch-icon"></span> 全球 AI 攻防挑战赛：语音克隆（2025.08）
+~ [<span class="iconify" data-icon="logos:github-icon"></span> Contest-Alibaba-VoiceClone](https://github.com/DURUII/Contest-Alibaba-VoiceClone)
+- 文本语义消歧：针对传统 TTS 在数字、单位、多音字场景下的朗读错误痛点（如“2024.12”作为日期/金额的读法差异，“22-24”读“至”还是“减”），设计 LLM 预处理模块，利用大模型上下文理解能力进行文本规整；通过分句策略，解决长文本合成中韵律崩坏问题。
+- 零样本语音克隆优化：对比 IndexTTS 与 Spark-TTS 架构差异，确立以 Spark-TTS 为核心的合成方案；将参考音频的文本内容作为辅助输入，可以增强克隆语音在停顿、重音及情感表达上的还原度。
+- 自动化质量门控机制：设计后处理解决自回归模型“幻觉”问题（如无限长音、杂讯）：计算有效语音占比（Effective Speech Ratio），自动剔除静音或噪声片段；对合成音频进行反向 ASR 识别，对比输入文本长度差异，拦截“胡言乱语”的坏样本；构建多级重试机制，在高质量合成失败时自动切换至鲁棒性更强的参数策略（如放弃 Ref-Text），保障系统高可用性。
 
 <span class= "iconify" data-icon="logos:pytorch-icon"></span> 服创大赛：高性能声纹识别平台，项目负责人（2023.02）
 ~ [<span class="iconify" data-icon="simple-icons:baidu"></span> 文档&代码](https://pan.baidu.com/s/1MJ7-E8cWqtXI47gY1kxcHA?pwd=duru), [<span class="iconify" data-icon="ri:bilibili-fill"></span> Demo](https://www.bilibili.com/video/BV1y5411v7Xi/)
